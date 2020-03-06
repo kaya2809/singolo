@@ -181,11 +181,10 @@ li span {
     margin-top: 0;
     margin-bottom: 0;
     font-family: "Lato",sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 18px;
     letter-spacing: -0.15px;
     color: #666d89;
-    text-align: left;
 }
 .services__description {
     width: 219px;
@@ -196,6 +195,6 @@ li span {
     font-size: 12px;
     line-height: 1.75em;
     letter-spacing: 0px;
-    text-align: justify;
+    text-align: j;
     color: #767e9e;
 }
